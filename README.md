@@ -7,4 +7,4 @@ This repository contains the files to create a simple Web App with golang progra
 git clone https://github.com/desogg/go-webApp.git
 cd go-webApp
 ```
-2. If you don't have golang in your computer you can download and install by the official web [https://golang.org/doc/install]
+2. If you don't have golang in your computer you can download and install by the official [golang web](https://golang.org/doc/install)

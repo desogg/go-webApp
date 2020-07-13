@@ -8,3 +8,8 @@ git clone https://github.com/desogg/go-webApp.git
 cd go-webApp
 ```
 2. If you don't have golang in your computer you can download and install by the official [golang web](https://golang.org/doc/install)
+
+3. To test the server you can run the command:
+```
+go run webapp.go
+```
